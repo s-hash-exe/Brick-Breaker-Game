@@ -10,7 +10,7 @@ public class Main
 		Gameplay gp = new Gameplay();
 		//Setting the screen size
 		jf.setBounds(10, 10, 700, 600);
-		jf.setTitle("Breakout Ball");
+		jf.setTitle("BrickBreaker Game");
 		jf.setResizable(false);
 		jf.setVisible(true);
 		jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
