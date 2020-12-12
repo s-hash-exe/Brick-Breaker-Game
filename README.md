@@ -2,8 +2,8 @@
 This project is an interactive game based upon the classic game - The Brick Breaker.
 
 # Team:
-1. Shantanu Agrawal
-2. Shashwat Agarwal
+1. Shashwat Agarwal
+2. Shantanu Agrawal
 3. Shashwat Samarpan
 4. Shreevatsa U Upadhyaya
 
